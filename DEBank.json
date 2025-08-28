@@ -1,0 +1,59 @@
+{
+	"Locations":[
+    {
+      "City": "Berlin",
+      "Code": [30],
+      "Bank": "Landesbank"
+    },
+    {
+      "City": "Bonn",
+      "Code": [228],
+      "Bank": "Norisbank"
+    },
+    {
+      "City": "Bremen",
+      "Code": [421],
+      "Bank": "Bremer Bank"
+    },
+    {
+      "City": "Cologne",
+      "Code": [221],
+      "Bank": "Bank fur Sozialwirtschaft AG"
+    },
+    {
+      "City": "Dusseldorf",
+      "Code": [211],
+      "Bank": "NRW.Bank"
+    },
+    {
+      "City": "Essen",
+      "Code": [201],
+      "Bank": "National-Bank AG"
+    },
+    {
+      "City": "Frankfurt",
+      "Code": [69, 335],
+      "Bank": "Commerzbank"
+    },
+    {
+      "City": "Hamburg",
+      "Code": [40],
+      "Bank": "Hamburg Commercial Bank"
+    },
+    {
+      "City": "Hanover",
+      "Code": [511],
+      "Bank": "Nord/LB"
+    },
+    {
+      "City": "Nurnberg",
+      "Code": [911],
+      "Bank": "Consorsbank"
+    },
+    {
+      "City": "Stuttgart",
+      "Code": [711],
+      "Bank": "Landesbank"
+    }
+  ]
+}
